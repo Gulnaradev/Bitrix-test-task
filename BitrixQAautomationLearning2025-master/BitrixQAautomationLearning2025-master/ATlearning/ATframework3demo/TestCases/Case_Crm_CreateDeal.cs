@@ -4,7 +4,7 @@ using ATframework3demo.PageObjects.CRM;
 
 namespace ATframework3demo.TestCases
 {
-    public class Case_Crm_CreateDeal_Click : CaseCollectionBuilder
+    public class Case_Crm_CreateDeal : CaseCollectionBuilder
     {
         protected override List<TestCase> GetCases()
         {
